@@ -72,7 +72,7 @@
                   </scg:Dictionary>
                 </sap:WorkflowViewStateService.ViewState>
                 <ui:MaximizeWindow Window="{x:Null}" DisplayName="Maximize Window" sap:VirtualizedContainerService.HintSize="755,22" sap2010:WorkflowViewState.IdRef="MaximizeWindow_1" />
-                <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="755,62" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="This activitiy is in local master and not in local NewBranch." />
+                <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="755,62" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="This activitiy is in local master and not in local NewBranch.," />
                 <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="755,62" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Added one message to differentiate local from remote repo" />
                 <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="755,93" sap2010:WorkflowViewState.IdRef="LogMessage_4" Level="Info" Message="[&quot;Opened Repubblica web page&quot;]" />
                 <ui:UiElementExists DisplayName="Element Exists - Repubblica web page" Exists="[ElemExists]" sap:VirtualizedContainerService.HintSize="755,106" sap2010:WorkflowViewState.IdRef="UiElementExists_1">
